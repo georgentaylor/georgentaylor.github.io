@@ -1,12 +1,10 @@
 ---
 title: George Taylor
-subtitle: A minimalist design exploration
-author: Oskar Wickström
-author-url: "https://wickstrom.tech"
-date: 2024-08-26
+subtitle: Predoctoral Fellow
+author: Economic Growth Center, Yale University
+date: 2024-08-28
 lang: en
 toc-title: Contents
-version: v0.1.1
 ---
 
 ## Introduction
