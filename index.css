@@ -175,7 +175,7 @@ th {
   margin: 0;
 }
 .header tr td:last-child {
-  text-align: right;
+  text-align: left;
 }
 
 p {
