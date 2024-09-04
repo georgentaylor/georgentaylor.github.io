@@ -175,6 +175,15 @@ p {
   hyphens: auto;
 }
 
+container {
+    display: flex;
+    align-items: center;
+}
+
+container p {
+    margin-left: 1em;
+}
+
 img, video {
   display: block;
   width: 100%;
