@@ -33,12 +33,24 @@ $include-before$
 $endfor$
 <table class="header">
   <tr>
-    <td colspan="1" rowspan="1" class="width-auto">
+    <!-- Centered title -->
+    <td colspan="1" rowspan="1" class="width-auto" style="text-align: left;">
       <h1 class="title">$title$</h1>
       <span class="subtitle">$subtitle$</span>
     </td>
   </tr>
 </table>
+
+<!-- New two-column section -->
+<div class="grid">
+  <!-- Left column for picture -->
+  <div class="picture">
+    <img src="$picture$" alt="$title$" />
+  </div>
+  <!-- Right column for bio -->
+  <p>$bio$</p>
+</div>
+
 $if(abstract)$
 <div class="abstract">
 <div class="abstract-title">$abstract-title$</div>
