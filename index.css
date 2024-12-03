@@ -417,6 +417,13 @@ label input {
   margin-bottom: var(--line-height);
 }
 
+.grid .image-container img {
+  max-width: 100%;
+  max-height: 200px; /* Restrict height */
+  width: auto;
+  height: auto;
+}
+
 .grid > *,
 .grid > input {
   flex: 0 0 calc(round(down, (100% - (1ch * (var(--grid-cells) - 1))) / var(--grid-cells), 1ch));
