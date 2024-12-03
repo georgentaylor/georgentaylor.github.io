@@ -8,6 +8,6 @@ picture: pic.jpg
 
 ### Work In Progress
 <details>
-<summary><a href="https://www.nytimes.com">Agricultural Productivity Impacts of Floods: Evidence From India <br> with Vineet Gupta, Maulik Jagnani, and Rohini Pande</a></summary>
+<summary><a href="https://www.nytimes.com">Agricultural Productivity Impacts of Floods: Evidence From India</a> <br> with Vineet Gupta, Maulik Jagnani, and Rohini Pande</summary>
 <p>Abstract</p>
 </details>
