@@ -76,14 +76,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
-  line-height: calc(2 * var(--line-height));
-  margin-bottom: calc(var(--line-height) * 2);
+  font-size: 1.5rem;
+  line-height: calc(1.5 * var(--line-height));
+  margin-bottom: calc(var(--line-height) * 1.5);
   text-transform: uppercase;
 }
 h2 {
   font-size: 1rem;
-  text-transform: uppercase;
 }
 
 hr {
@@ -195,15 +194,32 @@ img {
   color: var(--text-color-alt);
 }
 
+.paper {
+  border: var(--border-thickness) solid var(--text-color);
+  padding: calc(var(--line-height) - var(--border-thickness)) 1ch;
+  margin-bottom: var(--line-height);
+  font-weight: var(--font-weight-medium);
+}
+
+.paper i {
+  font-style: italic; 
+}
+
 details {
   border: var(--border-thickness) solid var(--text-color);
   padding: calc(var(--line-height) - var(--border-thickness)) 1ch;
   margin-bottom: var(--line-height);
+  color: var(--text-color-alt);
 }
 
 summary {
   font-weight: var(--font-weight-medium);
   cursor: pointer;
+  color: var(--text-color);
+}
+
+summary i {
+  font-style: italic;
 }
 details[open] summary {
   margin-bottom: var(--line-height);
