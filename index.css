@@ -199,6 +199,7 @@ img {
   padding: calc(var(--line-height) - var(--border-thickness)) 1ch;
   margin-bottom: var(--line-height);
   font-weight: var(--font-weight-medium);
+  display: block;
 }
 
 .paper i {
