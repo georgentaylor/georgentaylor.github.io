@@ -3,7 +3,7 @@ title: George Taylor
 subtitle: Predoc, Yale University
 date: 2024-12-1
 toc-title: Contents
-bio: Hi! I study the political economy of development. I am interested in how cultural norms and institutions shape adaptation to climate change, and how households make decisions about political participation.
+bio: Hi! I am a predoc at Yale interested in the political economy of development. At the moment, I am interested in how climate regulations are made and enforced and how households make decisions about political participation.
 picture: pic.jpg
 ---
 
