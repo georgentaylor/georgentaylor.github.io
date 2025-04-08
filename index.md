@@ -5,6 +5,7 @@ email: george dot taylor at yale dot edu
 date: 2024-12-1
 toc-title: Contents
 bio: Hi! I am a predoc at Yale interested in the political economy of development. At the moment, I am particularly interested in how households make decisions about political participation. 
+
 picture: pic.jpg
 ---
 
@@ -20,7 +21,12 @@ with Vineet Gupta, Maulik Jagnani, and Rohini Pande
 </details>
 -->
 
-### Ideas that have influenced me
+### About me
+I am from the UK and a big defender of British food. I am also a vegan (so cannot eat any British food). In my free time, I am learning Hindi and trying to get better at cooking. 
 
-- [Famine, Affluence and Morality](https://spot.colorado.edu/~norcross/Wh1.pdf){target="_blank"} by Peter Singer
+Running list of things I find useful/interesting (mostly for me!): 
+
+- [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html){target="_blank"}
 - [Value Capture](https://philpapers.org/archive/NGUVCH.pdf){target="_blank"} by C. Thi Nguyen
+- [Famine, Affluence, and Morality](https://rintintin.colorado.edu/~vancecd/phil308/Singer2.pdf){target="_blank"} by Peter Singer
+- []
