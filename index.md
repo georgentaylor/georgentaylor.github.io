@@ -29,4 +29,3 @@ Running list of things I find useful/interesting (mostly for me!):
 - [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html){target="_blank"}
 - [Value Capture](https://philpapers.org/archive/NGUVCH.pdf){target="_blank"} by C. Thi Nguyen
 - [Famine, Affluence, and Morality](https://rintintin.colorado.edu/~vancecd/phil308/Singer2.pdf){target="_blank"} by Peter Singer
-- []
