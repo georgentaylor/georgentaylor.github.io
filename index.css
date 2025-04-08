@@ -490,3 +490,7 @@ label input {
 .debug-toggle-label {
   text-align: right;
 }
+
+.email { 
+  font-style: italic; 
+}
