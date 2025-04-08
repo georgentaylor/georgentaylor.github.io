@@ -431,11 +431,18 @@ label input {
 }
 
 .grid {
-  --grid-cells: 0;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   gap: 1ch;
-  width: calc(round(down, 100%, (1ch * var(--grid-cells)) - (1ch * var(--grid-cells) - 1)));
   margin-bottom: var(--line-height);
+  align-items: start;
+}
+
+.grid .picture img {
+  max-width: 100%;
+  max-height: 200px;
+  width: auto;
+  height: auto;
 }
 
 .grid .image-container img {
