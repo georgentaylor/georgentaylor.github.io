@@ -20,7 +20,7 @@ with Vineet Gupta, Maulik Jagnani, and Rohini Pande
 </details>
 -->
 
-### Short papers that have inspired me
+### Ideas that have influenced me
 
-- [Value Capture](https://philpapers.org/archive/NGUVCH.pdf) by C. Thi Nguyen
-- [Famine, Affluence and Morality](https://spot.colorado.edu/~norcross/Wh1.pdf) by Peter Singer
+- [Famine, Affluence and Morality](https://spot.colorado.edu/~norcross/Wh1.pdf){target="_blank"} by Peter Singer
+- [Value Capture](https://philpapers.org/archive/NGUVCH.pdf){target="_blank"} by C. Thi Nguyen
