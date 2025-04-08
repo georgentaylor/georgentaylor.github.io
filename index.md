@@ -22,9 +22,9 @@ with Vineet Gupta, Maulik Jagnani, and Rohini Pande
 -->
 
 ### About me
-I am from the UK and a big defender of British food. I am also a vegan (so cannot eat any British food). In my free time, I am learning Hindi and trying to get better at cooking. 
+I am from the UK and a big defender of British food. I am also a vegan (so cannot eat any British food). In my free time, I am learning Hindi.
 
-Running list of things I find useful/interesting (mostly for me!): 
+Running list of things I find useful/interesting (mostly for me to keep track!): 
 
 - [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html){target="_blank"}
 - [Value Capture](https://philpapers.org/archive/NGUVCH.pdf){target="_blank"} by C. Thi Nguyen
