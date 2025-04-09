@@ -5,8 +5,7 @@ email: george dot taylor at yale dot edu
 date: 2024-12-1
 toc-title: Contents
 bio: Hi! I am a predoc at Yale interested in the political economy of development. At the moment, I am particularly interested in how households make decisions about political participation. 
-
-picture: pic.jpg
+picture: newpic.jpg
 ---
 
 ### Work In Progress
