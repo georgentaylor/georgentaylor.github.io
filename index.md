@@ -4,7 +4,7 @@ subtitle: PhD Student, UC Berkeley
 email: george.taylor@berkeley.edu
 date: 2024-12-1
 toc-title: Contents
-bio: Hi! I am a PhD student in the Business & Public Policy group in the Haas School of Business at UC Berkeley. My research interests are in the political economy of development, environmental economics and gender economics.
+bio: Hi! I am a PhD student in the Business & Public Policy group at the Berkeley Haas School of Business. My research interests are in the political economy of development, environmental economics and gender economics.
 picture: pic.jpg
 ---
 
