@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: calc(1.5 * var(--line-height));
   margin-bottom: calc(var(--line-height) * 1.5);
   text-transform: uppercase;
