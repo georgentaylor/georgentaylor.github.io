@@ -207,8 +207,8 @@ img {
 }
 
 details {
-  border: var(--border-thickness) solid var(--text-color);
-  padding: calc(var(--line-height) - var(--border-thickness)) 1ch;
+  /*border: var(--border-thickness) solid var(--text-color);
+  padding: calc(var(--line-height) - var(--border-thickness)) 1ch;*/
   margin-bottom: var(--line-height);
   color: var(--text-color-alt);
 }
@@ -439,7 +439,7 @@ label input {
 }
 
 .grid .picture img {
-  max-width: 100%;
+  max-width: 80%;
   max-height: 400px;
   width: auto;
   height: auto;
