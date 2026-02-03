@@ -12,17 +12,9 @@ picture: pic.jpg
 <details>
 <summary><i>Agricultural Productivity Impacts of Floods: Evidence From India</i> <br> 
 with Vineet Gupta, Maulik Jagnani, and Rohini Pande</summary>
-<p>Since 1980, the frequency of floods globally has quadrupled, disproportionately impacting In-
-dia’s subsistence population. Floods threaten just under a third of India’s population, about
-390 million people, half of whom rely on agriculture for a living. This study uses satellite data
-from 2000 to 2018 to provide causal estimates of the dynamic impacts of flooding on Indian
-agriculture. Using an event-study research design for an all-India sample spanning 2000-2018,
-we find that flooded areas lose 9.0% (3.3 percentage points (pp)) of agricultural output during
-the contemporaneous Kharif (monsoon) agricultural season and 8.2% (2.2 pp) in the subsequent
-Rabi (winter) season. We find that damages worsen with flood duration. Rarely flooded re-
-gions suffer the most during longer inundation, whereas often flooded regions show much smaller
-impacts, suggesting that experience pays off through adaptation. Strikingly, in all cases, agri-
-cultural yields rebound to pre-flood levels within a year. We supplement the all-India analysis
+<p>Since 1980, the frequency of floods globally has quadrupled, disproportionately impacting India’s subsistence population. Floods threaten just under a third of India’s population, about 390 million people, half of whom rely on agriculture for a living. This study uses satellite data from 2000 to 2018 to provide causal estimates of the dynamic impacts of flooding on Indian agriculture. Using an event-study research design for an all-India sample spanning 2000-2018, we find that flooded areas lose 9.0% (3.3 percentage points (pp)) of agricultural output during the contemporaneous Kharif (monsoon) agricultural season and 8.2% (2.2 pp) in the subsequent
+Rabi (winter) season. We find that damages worsen with flood duration. Rarely flooded regions suffer the most during longer inundation, whereas often flooded regions show much smaller
+impacts, suggesting that experience pays off through adaptation. Strikingly, in all cases, agricultural yields rebound to pre-flood levels within a year. We supplement the all-India analysis
 with evidence on the agricultural impact of the 2008 Kosi River floods in Bihar, India, which
 occurred when the river breached its embankments and shifted course, inundating areas that
 had not seen major flooding in the past half century. Spatial regression discontinuity estimates
