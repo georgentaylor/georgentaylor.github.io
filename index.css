@@ -48,6 +48,7 @@ html {
   align-items: center;
   background: var(--background-color);
   color: var(--text-color);
+  overflow-y: scroll;
 }
 
 body {
