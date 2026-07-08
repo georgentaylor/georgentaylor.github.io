@@ -16,13 +16,16 @@ picture: pic.jpg
 </details>
 -->
 <details>
-<summary><i>Expanding Access to Flood Early Warnings for Urban Firms in Nepal</i> <br> 
-with Maulik Jagnani and Rohini Pande</summary>
-<details>
 <summary><i>Agricultural Productivity Impacts of Floods: Evidence From India</i> <br> 
 with Vineet Gupta, Maulik Jagnani, and Rohini Pande</summary>
 <p>Floods threaten nearly a third of India's population, half of whom depend on agriculture. Using MODIS-derived cropped area estimates, we investigate the dynamic agricultural impacts of flooding across India for 2000-2018. Event-study estimates show that flooded areas lose 9.0\% of contemporaneous monsoon-season output and 8.2\% of subsequent winter-season output, with damages increasing in inundation duration. Rarely flooded regions suffer larger losses from prolonged flooding, suggesting prior exposure improves adaptive capacity. Yet output recovers to pre-flood levels by the subsequent monsoon season. A spatial regression discontinuity design around the 2008 Kosi River flood corroborates these patterns, showing large but temporary losses in areas largely flood-free for fifty years. Farmer helpline calls suggest recovery is supported by crop switching and governmental credit schemes.</p>
 </details>
+<div>
+<summary><i>Expanding Access to Flood Early Warnings for Urban Firms in Nepal</i> <br> 
+with Maulik Jagnani and Rohini Pande</summary>
+<p></p>
+</div>
+
 <!--
 <details>
 <summary><i>Against My Better Judgement: Gender, Norms and Political Expression in the Household</i></summary>
