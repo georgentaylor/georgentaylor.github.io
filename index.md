@@ -4,23 +4,24 @@ subtitle: PhD Student, UC Berkeley
 email: george.taylor [at] berkeley.edu
 date: 2024-12-1
 toc-title: Contents
-bio: Hi! I am a PhD student in the Business & Public Policy group at the Berkeley Haas School of Business. My main research interests are in the political economy of development.
+bio: I am a PhD student in the Business & Public Policy group at the Berkeley Haas School of Business. My main research interests are in development economics. 
 picture: pic.jpg
 ---
 
 ### Work In Progress
+<!--
+<details>
+<summary><i>Negotiated Infrastructure and in the State: Evidence from Colombia</i> </summary>
+<p></p>
+</details>
+-->
+<details>
+<summary><i>Expanding Access to Flood Early Warnings for Urban Firms in Nepal</i> <br> 
+with Maulik Jagnani and Rohini Pande</summary>
 <details>
 <summary><i>Agricultural Productivity Impacts of Floods: Evidence From India</i> <br> 
 with Vineet Gupta, Maulik Jagnani, and Rohini Pande</summary>
-<p>Since 1980, the frequency of floods globally has quadrupled, disproportionately impacting India’s subsistence population. Floods threaten just under a third of India’s population, about 390 million people, half of whom rely on agriculture for a living. This study uses satellite data from 2000 to 2018 to provide causal estimates of the dynamic impacts of flooding on Indian agriculture. Using an event-study research design for an all-India sample spanning 2000-2018, we find that flooded areas lose 9.0% (3.3 percentage points (pp)) of agricultural output during the contemporaneous Kharif (monsoon) agricultural season and 8.2% (2.2 pp) in the subsequent
-Rabi (winter) season. We find that damages worsen with flood duration. Rarely flooded regions suffer the most during longer inundation, whereas often flooded regions show much smaller
-impacts, suggesting that experience pays off through adaptation. Strikingly, in all cases, agricultural yields rebound to pre-flood levels within a year. We supplement the all-India analysis
-with evidence on the agricultural impact of the 2008 Kosi River floods in Bihar, India, which
-occurred when the river breached its embankments and shifted course, inundating areas that
-had not seen major flooding in the past half century. Spatial regression discontinuity estimates
-show that flooded regions lost 57.4% (27.0 pp) of Kharif output and 52.2% (14.8 pp) of Rabi
-output compared to neighboring areas, with impacts scaling with flood duration but, again,
-fading within one year.</p>
+<p>Floods threaten nearly a third of India's population, half of whom depend on agriculture. Using MODIS-derived cropped area estimates, we investigate the dynamic agricultural impacts of flooding across India for 2000-2018. Event-study estimates show that flooded areas lose 9.0\% of contemporaneous monsoon-season output and 8.2\% of subsequent winter-season output, with damages increasing in inundation duration. Rarely flooded regions suffer larger losses from prolonged flooding, suggesting prior exposure improves adaptive capacity. Yet output recovers to pre-flood levels by the subsequent monsoon season. A spatial regression discontinuity design around the 2008 Kosi River flood corroborates these patterns, showing large but temporary losses in areas largely flood-free for fifty years. Farmer helpline calls suggest recovery is supported by crop switching and governmental credit schemes.</p>
 </details>
 <!--
 <details>
